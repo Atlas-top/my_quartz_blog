@@ -1,0 +1,194 @@
+---
+title: AI 工具合集
+date: 2026-02-01
+tags:
+  - AI工具
+  - 效率
+description: AI生产力工具，提升你的效率
+---
+
+## **📂 2026 AI 全明星生产力工具大全**
+
+### **一、 🧠 文本与核心大脑**
+
+>这些是所有 AI 工作流的“中央处理器”，负责思考、逻辑推理与长文处理
+
+- **ChatGPT** **(***OpenAI***)：全球最强通用逻辑模型
+
+- **Gemini (Google)：** 原生多模态模型，在处理视频和长视频理解上极具优势
+
+- **Claude (Anthropic)：** 文本创作最细腻、长文本处理最稳、编程逻辑极佳
+
+- **DeepSeek (深度求索)：** 国产之光，理科逻辑与中文语境分析的性价比之王
+
+- **通义千问 (阿里巴巴)：** 深度集成阿里生态，商务办公与搜索能力强
+
+- **NotebookLM：** 谷歌出品，个人知识库整理与深度研究的利器
+
+- **Llama (***Meta***)：全球开源基座模型的鼻祖，适合私有化定制
+
+- **智谱 AI (ChatGLM)：** 国内领先的学术与中英双语深度大模型
+
+- **Kimi：** 针对国内长文档、超长对话环境优化的深度模型
+
+- **天工：** 模拟人类思维分解复杂难题，可精读数研究报告或论文
+
+
+### **二、 🎨 图像艺术**
+
+>从天马行空的灵感生成到分毫不差的工业级控制
+
+- **Midjourney：** 全球审美巅峰，适合商业摄影、概念草图
+
+- **Stable Diffusion (SD 系列)：** 开源工业母机，通过 LoRA 和插件实现无限可能
+
+- **Lovart：** 二次元与高端插画，笔触感模拟极佳
+
+- **Z-image：** 新兴的艺术类生成工具
+
+- **ComfyUI：** 节点式视觉实验室，AI 绘图走向专业级、精准化流程的终极工具
+
+- **Liblib AI：** 中国最大的模型社区，海量本土化模型的源泉
+
+
+### **三、 🎬 视频生成**
+
+>视频生成已经从“几秒动图”进化为“两分钟大片”
+
+- **Sora (****OpenAI****)：** 物理世界模拟能力的代名词
+
+- **Luma Dream Machine：** 生成速度极快，动作连贯性极佳
+
+- **可灵 (Kling)：** 物理特性真实，支持超长视频生成
+
+- **即梦 (Jimeng)：** 字节跳动出品，与剪映深度打通，短视频博主首选
+
+- **腾讯混元：** 腾讯大模型，在视频生成稳定性上表现优异
+
+- **海螺 AI：** 通义实验室出品，画质细腻
+
+
+### **四、 🎭 数字人与视频重制**
+
+>让照片说话，让视频自动换声对口型
+
+- **HeyGen：** 商业数字人领军者，提供丰富的真人模板与翻译配音工作流
+
+- **Infinite Talk：** 长视频数字人神器，肢体同步极度自然
+
+
+### **五、 🎙️ 语音与音乐**
+
+>AI 声音已能模拟呼吸和情绪，音乐生成已达发行级
+
+- **Suno：** AI 音乐霸主，支持一键生成完整词曲编唱，曲风极广
+
+- **Udio：** 音质极佳（Hi-Fi 级），深受专业音乐人喜爱的艺术化音乐工具
+
+- **ChatTTS：** 最具“人味儿”的开源对话音频，自动加入叹气、笑声等
+
+- **IndexTTS：** 工业级精密控制音频，支持精确时长对齐与情感分离
+
+- **ElevenLabs：** 文生语音（TTS）、声音克隆、智能配音
+
+
+### **六、 🔍 AI 搜索与深度调研**
+
+>告别传统搜索引擎
+
+- **Perplexity****：** AI 搜索，实时联网、引用溯源、生成研究报告
+
+- **ima：** 腾讯出品，深度整合微信生态与全网信息的搜索助手
+
+- **Atlas：** 深度调研的专业引擎
+
+
+### **七、 💻 编程开发**
+
+>从写代码，进化到“指挥”AI 写代码
+
+- **Cursor：** 2026 年最火的 AI 编程环境，通过 Composer 模式自动完成整个项目
+
+### **八、 ⚙️** **自动化流程****与****智能体****编排**
+
+>将零散的工具串联起来，实现 24 小时自动办公
+
+- **n8n：** 开源自动化编排之王，支持私有化部署，是构建企业级 Agent 的核心
+
+- **扣子 (Coze)：** 字节跳动出品，零代码搭建个人 AI Agent 并一键发布至多平台
+
+
+### **九、 🌐 AI 浏览器**
+
+>浏览器不再是窗口，而是你的执行代理
+
+- **Dia (Browser)：** 意图驱动型浏览器，能理解指令并跨网页自动执行任务（如订票、比价等）
+
+---
+
+| 所属公司 / 团队           | 模型 / 产品 / 平台     | 描述                                                                       | 核心功能/应用场景                                                             | 官方网站                                                                                     | 推荐指数  |
+| ------------------- | ---------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----- |
+| OpenAI              | ChatGPT系列产品      | 具备深度逻辑推理与多模态交互能力的通用全能型 AI 助手                                             | 复杂问题推演、长文创作与润色、全语言编程辅助                                                | [https://chatgpt.com](https://chatgpt.com/)                                              | ★★★★★ |
+| OpenAI              | Sora             | 具备物理世界规律理解能力的扩散型视频生成大模型                                                  | 电影级文生视频、视频扩展与风格迁移，广泛应用于影视特效                                           | [https://openai.com/sora](https://openai.com/sora)                                       | ★★★★★ |
+| Open AI             | ChatGPT Atlas    | AI浏览器（目前仅Mac端可以使用）                                                       | 自动预订机票、购物、填表等跨网页任务； 无需复制粘贴，直接对当前网页进行摘要、对比与深度分析                        | [https://chatgpt.com/zh-Hans-CN/atlas/](https://chatgpt.com/zh-Hans-CN/atlas/)           | ★★★★☆ |
+| Google              | Gemini           | 全球领先的原生多模态大模型，深度集成于 Google 生态系统的“智脑”                                     | 不仅能聊天，还能直接“读懂”你上传的视频、超长 PDF 或录音                                       | [https://gemini.google.com](https://gemini.google.com/)                                  | ★★★★★ |
+| Google              | Nano Banana      | 图像生成与编辑模型                                                                | 具备强大的推理能力，能生成含有准确文字的图表，并支持多张参考图进行深度创作                                 | [https://gemini.google.com](https://gemini.google.com/)                                  | ★★★★★ |
+| Google              | Google AI Studio | Google 为开发者和 AI 爱好者提供的官方“炼丹炉”                                            | 模型测试、AI学习                                                             | [https://aistudio.google.com](https://aistudio.google.com/)                              | ★★★★★ |
+| Google              | NotebookLM       | 一款以笔记为核心的 AI 知识助手                                                        | 仅依据你上传的文档（PDF、YouTube、网页）回答问题； 一键生成播客对话、思维导图、带引用的深度研究报告               | [https://notebooklm.google.com](https://notebooklm.google.com/)                          | ★★★★★ |
+| Google DeepMind     | Veo              | 谷歌 DeepMind 推出的支持原生音画同步的顶级电影级视频生成模型                                      | 广告制作、视觉创作                                                             | [https://deepmind.google/veo](https://deepmind.google/veo)                               | ★★★★★ |
+| DeepSeek            | DeepSeek         | 全球领先的开源通用大模型，以极致推理性能与超高性价比著称的国产顶流                                        | 解决竞赛级数学难题、编写高复杂度逻辑代码； 在中文语境下的公文写作、诗词理解及情感表达上极具优势                      | [https://www.deepseek.com](https://www.deepseek.com/)                                    | ★★★★☆ |
+| Anthropic           | Claude           | 具备极高文学素养与代码逻辑的专家级 AI 助理                                                  | 擅长撰写高水平论文、创意文学及复杂系统代码                                                 | [https://claude.ai](https://claude.ai/)                                                  | ★★★★★ |
+| xAI                 | Gork             | 融合 X 平台实时数据流，主张“求真”且带有冷幽默感的反传统推理型 AI                                     | 追踪全球热点与舆论趋势                                                           | [https://grok.com/](https://grok.com/)                                                   | ★★★★☆ |
+| Midjourney          | Midjourney       | 拥有顶级审美和艺术表现力的专业级 AI 视觉创作工具，是 AI 绘画界的标杆                                   | 商业海报、角色插画及概念图设计；通过“个人化偏好”和“强一致性”技术，确保同一角色或风格在不同场景中完美统一                | [https://www.midjourney.com](https://www.midjourney.com/)                                | ★★★★★ |
+| Meta                | Llama            | 全球影响力最大、生态最成熟的开源通用大模型系列，是商业私有化部署的首选内核                                    | 从手机端侧运行的小模型到 400B+ 的顶级旗舰模型； 企业可以构建高安全性、定制化的内部专家系统                     | [https://www.llama.com/](https://www.llama.com/)                                         | ★★★★☆ |
+| 阿里巴巴                | 通义千问             | 阿里巴巴打造的超大规模全能型 AI，具备极强的逻辑推理、超长文本处理及办公自动化能力                               | 擅长深度行业报告分析、超长文档拆解及复杂代码编写；深度集成在钉钉等办公软件中，实现智能会议摘要与业务流自动化                | [https://tongyi.aliyun.com](https://tongyi.aliyun.com/)                                  | ★★★★★ |
+| 阿里巴巴                | Z-image          | 专注于极致光学写实与材质还原的高端 AI 图像生成引擎                                              | 生成极具真实皮肤纹理、布料细节及光学散景效果的商业大片； 为电商、工业设计提供足以乱真的 3D 质感效果图                 | [https://tongyi-mai.github.io/Z-Image-blog/](https://tongyi-mai.github.io/Z-Image-blog/) | ★★★★☆ |
+| 腾讯                  | 腾讯混元             | 腾讯全链路自研的万亿参数多模态大模型，以3D/视频生成与行业深度应用见长                                     | 领先行业的 3D 资产生成（Hunyuan 3D 3.0）与高质量长视频生成； 深度集成于腾讯会议、腾讯文档及微信生态           | [https://hunyuan.tencent.com](https://hunyuan.tencent.com/)                              | ★★★★☆ |
+| 腾讯                  | ima              | 腾讯推出的沉浸式 AI 智能工作台，主打“搜-读-写”一站式闭环体验                                       | 唯一能深度检索并总结微信公众号全量文章的 AI； 自动分解复杂任务，一键生成 PPT、脑图、行业研究报告或播客对话             | [https://ima.qq.com](https://ima.qq.com/)                                                | ★★★☆☆ |
+| 字节跳动                | 豆包               | 基于豆包大模型构建的国民级智能助理，以极高的响应速度与多端同步能力见长                                      | 提供极具情绪价值的语音对谈、快速文案起草及小红书风格文案润色； 集成在手机、浏览器及各种智能硬件中，实现无处不在的随身辅助         | [https://www.doubao.com](https://www.doubao.com/)                                        | ★★★★☆ |
+| 字节跳动                | 扣子（Coze）         | 下一代 AI Agent（智能体）一站式开发平台，零门槛实现复杂 AI 应用的构建与分发                             | 自由编排工作（Workflow）、挂载海量插件（如搜索、绘图、订票）及私有知识库； 一键将 AI 机器人发布至微信、飞书、抖音等社交平台  | [https://www.coze.cn](https://www.coze.cn/)                                              | ★★★★★ |
+| 字节跳动                | 即梦               | 字节跳动旗下的一站式 AI 视觉创意平台，集成了顶尖的文生图、文生视频及智能画布能力                               | 从高质感海报设计到电影级短视频生成；支持首尾帧参考、动作控制及局部重绘，精准还原创意构思                          | [https://jimeng.jianying.com](https://jimeng.jianying.com/)                              | ★★★★★ |
+| HeyGen              | HeyGen           | 全球领先的 AI 数字人视频生成平台，专注于高保真形象克隆与多语言翻译同步                                    | 只需一段短时间的视频，即可 1:1 克隆数字分身（外貌、声音、神态）                                    | [https://www.heygen.com](https://www.heygen.com/)                                        | ★★★★★ |
+| 北京智谱华章科技有限公司        | 智谱 AI系列产品        | 源自清华的中国大模型领军者，凭借 AutoGLM 率先让 AI 实现“手机自动驾驶“，是集深度逻辑、实时视频感知与全自动执行于一体的国产全栈基座 | 视频生成、多模态交互、自动化流程操作                                                    | [https://chat.z.ai/](https://chat.z.ai/)                                                 | ★★★★★ |
+| 月之暗面（Moonshot AI）   | Kimi             | 全球首个主打“无损长文本”的国产明星 AI，现已进化为具备强推理思维的智能分析引擎                                | 轻松读完 200 万字以上的复杂资料，是金融、法律、学术研究者的提炼神器                                  | [https://www.kimi.com/](https://www.kimi.com/)                                           | ★★★★☆ |
+| MiniMax（稀宇科技）       | 海螺AI             | 拥有极强语音交互感染力与电影级视频生成能力                                                    | 通过“主体参考”技术实现视频人物形象的超高连贯性                                              | [https://hailuoai.com/](https://hailuoai.com/)                                           | ★★★★☆ |
+| Luma Labs           | Luma             | 以极致真实物理反馈和高动态表现著称的顶级视频生成平台                                               | 完美模拟推、拉、摇、移等专业摄影效果； 能够处理极其复杂的流体（水、火）和人体动作，画面极少出现崩坏或逻辑错误               | [https://lumalabs.ai](https://lumalabs.ai/)                                              | ★★★★★ |
+| 昆仑万维                | 天工               | 全球首款双千亿参数级、融合强推理与深度搜索的“超级智能体”平台                                          | 模拟人类思维分解复杂难题                                                          | [https://tiangong.cn](https://tiangong.cn/)                                              | ★★★☆☆ |
+| 北京奇点星宇科技有限公司        | Lovart           | 专为二次元、插画及漫画设计深度优化的 AI 艺术创作引擎                                             | 平面设计、品牌视觉、插画                                                          | [https://www.liblib.art](https://www.liblib.art/)                                        | ★★★★☆ |
+| 北京奇点星宇科技有限公司        | Liblib AI        | 中国最大的 AI 创作及模型原创社区，以高度灵活的开源生态与云端部署能力著称                                   | 提供数百万个针对中国审美优化的 LoRA 与基座模型；无需昂贵显卡，在线运行 ComfyUI、WebUI，支持极其复杂的商业设计工作流定制 | [https://www.liblib.ai](https://www.liblib.ai/)                                          | ★★★★★ |
+| 快手                  | 可灵               | 具备电影级画质与超长生成能力的顶级视频生成大模型，以物理特性真实和动作幅度大著称                                 | 独家提供“首尾帧控制”、“运镜参数调节”及“区域重绘”，精准控制每一个像素的跳动                              | [https://klingai.kuaishou.com](https://klingai.kuaishou.com/)                            | ★★★★☆ |
+| Perplexity          | Perplexity       | 全球领先的 AI 原生代搜索引擎，主打“答案即搜索”与全网信息实时聚合                                      | 自动搜索数十个信源并撰写深度报告，所有观点均附带原文链接                                          | [https://www.perplexity.ai](https://www.perplexity.ai/)                                  | ★★★★★ |
+| ElevenLabs Inc.     | ElevenLabs       | 全球最顶尖的 AI 音频与语音研究平台，以极致的情感表达和音色还原著称                                      | 制作高品质播客、有声书及游戏角色等配音                                                   | [https://elevenlabs.io](https://elevenlabs.io/)                                          | ★★★★★ |
+| 2noise              | ChatTTS          | 专门为对话场景优化的开源高保真语音生成模型，主打极致的口语化自然感                                        | 支持本地部署，是短视频创作者常用的口播配音引擎                                               | [https://github.com/2noise/ChatTTS](https://github.com/2noise/ChatTTS)                   | ★★★★★ |
+| Bilibili            | IndexTTS         | 工业级、可控且高效的 Zero-Shot（零样本） 语音合成系统                                         | 全球首创，可精确指定语音生成的秒数，完美契合视频对齐需求                                          | [https://github.com/index-tts/index-tts](https://github.com/index-tts/index-tts)         | ★★★★☆ |
+| Stability AI        | SD系列产品           | 极高的可控性、丰富的生态插件（ControlNet/LoRA）以及本地化部署的自由度                               | 一套专业的”电影摄制组”                                                          | [https://platform.stability.ai](https://platform.stability.ai/)                          | ★★★★★ |
+| Suno Inc.           | Suno             | 全球最领先的全自动 AI 音乐创作平台，支持文本一键生成词、曲、编、唱                                      | 仅凭一句描述生成带人声的完整歌曲；支持局部重绘、音轨分离与音频上传参考，生成的曲目具备商业发行潜质                     | [https://suno.com/](https://suno.com/)                                                   | ★★★★★ |
+| Uncharted Labs      | Udio             | 以顶级音质（Hi-Fi）和电影级情感表达著称的专业 AI 音乐生成平台                                      | 擅长复杂的爵士、交响及实验电子乐                                                      | [https://www.udio.com](https://www.udio.com/)                                            | ★★★★☆ |
+| Anysphere           | Cursor           | 基于 VS Code 深度定制的 AI 原生编程环境，编程效率工具的绝对王者                                   | 只需一句话描述需求，AI 自动跨文件修改代码、创建新组件并运行测试                                     | [https://cursor.sh](https://cursor.sh/)                                                  | ★★★★★ |
+| Comfy Org           | ComfyUI          | 全球最强大的节点式可视化工作流引擎，AI 图像与视频生成的专业级底层平台                                     | 你可以精准控制 AI 先画轮廓，再上色，最后局部精修。普通工具可能一次生成就“撞大运”，但在 ComfyUI 里，你可以精准复刻每一步   | [https://www.comfy.org/zh-cn/](https://www.comfy.org/zh-cn/)                             | ★★★★★ |
+| 美团                  | Infinite Talk    | 能够生成无限长度、具备极致口型同步与肢体自然律动的 AI 数字人平台                                       | 支持“照片+音频”变视频，也支持“原视频+新音频”实现完美译制配音。                                    | [https://www.infinitetalk.net/](https://www.infinitetalk.net/)                           | ★★★★☆ |
+| Perplexity AI, Inc. | Perplexity       | 全球领先的 AI 原生代搜索引擎，主打“答案即搜索”与全网信息实时聚合                                      | 自动规划搜索路径，单次搜索精读数百个网页并总结，所有结论均带原文跳转链接                                  | [https://www.perplexity.ai/](https://www.perplexity.ai/)                                 | ★★★★★ |
+| The Browser Company | Dia              | 新锐的 AI 原生代浏览器，主打从“检索信息”向“自动执行任务”的跨越                                      | 只需输入“帮我订一张去上海最便宜的机票”，它会跨平台比价并跳转至支付界面                                  | [https://www.diabrowser.com/](https://www.diabrowser.com/)                               | ★★★☆☆ |
+| n8n团队（德国公司）         | n8n              | 自动化工作流平台                                                                 | 节点化调用 LLM、向量数据库（RAG）和外部工具，构建自主决策的 AI 员工                               | [https://n8n.io](https://n8n.io/)                                                        | ★★★★★ |
+
+  
+
+---
+
+## 🎁资源整合
+
+Ⅰ年度好用AI大赏！｜公众号 @秋芝2046
+
+https://mp.weixin.qq.com/s/jCi9cVZYR1UqQ7xXOhn5iQ
+
+Ⅱ年度好用AI大赏！｜B站 up主 @秋芝2046
+
+https://www.bilibili.com/video/BV1ibvhBqEmp/?share_source=copy_web&vd_source=4626b3a4121cb9f6a39cc37feb6ce0d7
+
+Ⅲ2026必备！这8大AI工具，没有裸泳...... | B站 up主 @Xuan酱
+
+https://www.bilibili.com/video/BV1grvbBDETn/?share_source=copy_web&vd_source=4626b3a4121cb9f6a39cc37feb6ce0d7
+
+Ⅳ up主 @Xuan酱 超详细文档
+
+[好用AI 工具推荐大盘点-Xuan酱](https://ai.feishu.cn/base/Kmn8blzzaa6R7WsXPGac5Em7npc)
