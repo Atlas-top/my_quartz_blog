@@ -1,5 +1,5 @@
 ---
-title: " AlphaVerse"
+title: " Home"
 description: 一个极客入门者的学习、折腾与长期记录
 ---
 
