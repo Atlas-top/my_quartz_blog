@@ -14,7 +14,7 @@ updated: 2026-02-05
 >
 >网址： https://spacetypegenerator.com/
 
-![[image-13.webp|700x321]]
+![[Attachments/image-13.webp|700x321]]
 
 >Kiel Danger Mutschelknaus 是一位来自马里兰州的动态和生成式设计师。他的工作室专注于开发生成式工具，用于创作定制化的字体、图像和动态作品。他的编程项目 Space Type Generator (STG) 是一款开源工具，允许用户创建自己的动态字体实验。STG 目前有 16 种变体，并且还在不断增加。它已被世界各地广泛用于各种项目，从音乐视频到杂志封面，再到大型壁画。Space Type Generator 曾被 It's Nice That  、The Verge 、étapes、Facebook Curated、_Novum Magazine_、Eye Magazine、Type01和PAGE等媒体报道。
 >
@@ -58,7 +58,7 @@ updated: 2026-02-05
 - **BKGD COLORS:** 修改背景颜色。
 - **Save Loop:** 点击后会生成并下载这一段循环动画。
 
-![[image-16.webp|700x429]]
+![[Attachments/image-16.webp|700x429]]
 
 
 ### 3.视角控制 (Camera Controls)
@@ -72,11 +72,11 @@ updated: 2026-02-05
 >- **CAMERA: Z-Rotation:** Z 轴旋转（让整个画面像方向盘一样**翻转**）。
 >- **Camera Zoom:** 相机缩放（拉近或拉远镜头，控制**景别大小**）。
 
-![[image-17.webp|700x520]]
+![[Attachments/image-17.webp|700x520]]
 
 ### 4. 动态生成模式
 
-![[image-14.webp|700x336]]
+![[Attachments/image-14.webp|700x336]]
 
 
 >STG 共有22种 **动态生成模式**，下面逐一解释：
@@ -121,7 +121,7 @@ updated: 2026-02-05
 11. **Newsprint (新闻纸):** 模拟旧报纸的印刷颗粒感。
 12. **Edge Case (边缘情况):** 通常是一些极端的、实验性的参数组合。
 
-![[image-15.webp|700x318]]
+![[Attachments/image-15.webp|700x318]]
 
 > Flag模式的预设效果区
 

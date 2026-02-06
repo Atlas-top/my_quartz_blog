@@ -14,7 +14,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 
 
-![[image.webp|700x332]]
+![[content/Attachments/image.webp|700x332]]
 
 ## 2. Prompthero
 
@@ -23,13 +23,13 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 >Midjourney, Stable Diffusion 和 DALL-E，这里能搜到所有平台的优质 Prompt。
 
 
-![[image-1.webp|700x303]]
+![[content/Attachments/image-1.webp|700x303]]
 
 ## 3. AiShort
 
 网址： https://xn--o0uq09burn.com/
 
-![[image-2.webp|700x318]]
+![[content/Attachments/image-2.webp|700x318]]
 
 
 ## 4. Awesome ChatGPT Prompts
@@ -40,7 +40,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 >
 >145k Star🌟
 
-![[image-3.webp|700x301]]
+![[content/Attachments/image-3.webp|700x301]]
 
 ## 5. 提示词工程指南
 
@@ -58,7 +58,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 > 
 > 19.2K Star 🌟
 
-![[image-6.webp]]
+![[content/Attachments/image-6.webp]]
 
 
-![[image-7.webp]]
+![[content/Attachments/image-7.webp]]

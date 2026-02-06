@@ -43,12 +43,12 @@ description:
 
 ## (2)当前ArcGIS版本
 
-![[image-18.webp|148x261]]
+![[content/Attachments/image-18.webp|148x261]]
 # 3.ArcGIS产品结构图
 
-![[image-19.webp|700x333]]
+![[content/Attachments/image-19.webp|700x333]]
 
-![[ArcGIS简介及其产品体系-20260205185447-1.webp]]
+![[content/Attachments/ArcGIS简介及其产品体系-20260205185447-1.webp]]
 
 
 
