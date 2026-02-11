@@ -3,7 +3,7 @@ title: Quartz开启本地预览
 date: 2026-01-22
 tags:
   - Quartz
-draft: true
+draft: false
 description: 使用VScode修改Quartz代码，如和做到本地预览
 ---
 ## 1. 打开终端 (Terminal)

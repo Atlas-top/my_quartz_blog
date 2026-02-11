@@ -2,7 +2,7 @@
 title: Node.js安装
 date: 2026-01-09
 tags:
-draft: true
+draft: false
 description: Node.js安装教程
 ---
 ## 1.Download

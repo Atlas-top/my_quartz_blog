@@ -1,7 +1,7 @@
 ---
 title: " α"
 description: 一个极客入门者的学习、折腾与长期记录
-updated: 2026-02-06
+updated: 2026-02-01
 ---
 
 ## 👋 Hello ya ! 欢迎来到这里！
@@ -37,7 +37,7 @@ updated: 2026-02-06
 ---
 
 > [!success] 致谢
-> 这里向 [Quartz](https://github.com/jackyzha0/quartz) 开源项目的作者 [Jacky Zhao](https://jzhao.xyz/) 致谢！
+> 这里向 [Quartz](https://github.com/jackyzha0/quartz) 开源项目的作者 [Jacky Zhao](https://jzhao.xyz/)致谢！
 
 ---
 

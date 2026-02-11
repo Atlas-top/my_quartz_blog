@@ -1,11 +1,27 @@
 ---
 title: Prompt collection
-date: 2026-02-04
+date: 2026-01-30
 tags:
   - prompt
-draft: true
+draft: false
 description: 搜集一些提示词网站、开源提示词仓库、各种Skills分享等（Collect some prompt websites, open-source prompt repositories, and various skill-sharing resources, etc.）
 ---
+# 🚀 AI 提示词（Prompt）优质资源站汇总
+
+| **网站名称**               | **网址**                                                                            | **网站描述**                                                | **适用工具**                   | **推荐指数** |
+| ---------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------- | -------- |
+| **提示词工程指南**            | [promptingguide.ai](https://www.promptingguide.ai/zh)                             | **学术级百科全书**。系统讲解提示词工程的底层逻辑、进阶策略和论文级技巧。                  | 通用 (ChatGPT/Claude/Gemini) | ⭐⭐⭐⭐⭐    |
+| **LearningPrompt**     | [learningprompt.wiki](https://learningprompt.wiki/)                               | Jimmy 编写，内容详实且通俗易懂，特别适合建立系统的提示词思维。                      | 通用 & Midjourney            | ⭐⭐⭐⭐⭐    |
+| **AiShort (提示词.com)**  | [xn--o0uq09burn.com](https://xn--o0uq09burn.com/)                                 | **效率工具型网站**。将提示词分类为快捷键，支持一键复制，非常适合日常高频搜索和使用。            | ChatGPT / Claude           | ⭐⭐⭐⭐⭐    |
+| **PromptHero**         | [prompthero.com](https://prompthero.com/)                                         | **AI 绘画领域的灵感库**。海量高颜值出图示例，精准标注提示词、模型和各项参数。              | MJ / SD / DALL-E           | ⭐⭐⭐⭐⭐    |
+| **Prompt Optimizer**   | [github/.../prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)      | **提示词自动优化工具**。将用户的口语化想法自动“精修”为专业化、结构化的 Prompt。          | 通用 / 文本生成                  | ⭐⭐⭐⭐✨    |
+| **FlowGPT**            | [flowgpt.com](https://flowgpt.com/)                                               | **全球最大的活跃社区**。功能丰富，支持在线测试、点赞排名，是发现最新创意玩法的首选。            | 全能型 / 创意写作                 | ⭐⭐⭐⭐✨    |
+| **Snack Prompt**       | [snackprompt.com](https://snackprompt.com/)                                       | **Reddit 式社区**。主打社区投票筛选，并提供强大的浏览器插件，可直接嵌入 AI 聊天界面。      | ChatGPT                    | ⭐⭐⭐⭐     |
+| **PublicPrompts**      | [publicprompts.art](https://www.publicprompts.art/)                               | **开源艺术字典**。风格高度分类，完全免费，对 Stable Diffusion 的风格控制非常有参考价值。 | Stable Diffusion           | ⭐⭐⭐⭐     |
+| **Awesome ChatGPT**    | [prompts.chat](https://prompts.chat/)                                             | **鼻祖级指令集**。GitHub 超 145k 星，沉淀了大量经典的职场、角色扮演等指令模版。        | ChatGPT                    | ⭐⭐⭐⭐     |
+| **Awesome-ChatGPT-ZH** | [github/.../awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) | **中文生态综合索引**。不仅有提示词，还整合了国内各种 AI 应用、开发工具和优质教程。           | AI 全生态                     | ⭐⭐⭐⭐     |
+
+
 ## 1. ChatGPT 提示词中文指南
 
 文档： https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md
@@ -48,7 +64,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 >学习提示词工程 OpenSource
 
-![[image-4.png|700x299]]
+![[content/Attachments/image-4.webp|700x299]]
 
 ## 6. 提示词优化器
 
@@ -62,3 +78,31 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 
 ![[content/Attachments/image-7.webp]]
+
+## 7.snackprompt
+
+网址： https://snackprompt.com/
+
+>Snack Prompt 是一个汇集了大量 AI 提示词（Prompt）的社区平台，致力于帮助用户发现、分享、评级和管理用于 ChatGPT 等大语言模型的高效提示词，以提升使用 AI 工具的效率。
+
+![[28.webp|700x319]]
+
+## 8.flowgpt
+
+网址： https://flowgpt.com/
+
+## 9.Publicprompts
+
+网址： https://www.publicprompts.art/
+
+>这是一个**充满极客精神和公益心的 AI 绘画宝藏库**，是 Stable Diffusion 用户必收藏的“风格字典”
+
+![[29.webp|700x318]]
+
+## 10.LearingPrompt
+
+网址： https://learningprompt.wiki/
+
+>Jimmy‘s Blog
+
+![[30.webp|700x287]]

@@ -2,7 +2,7 @@
 title: Google Antigravity安装教程
 date: 2026-02-04
 tags:
-draft: true
+draft: false
 ---
 
 ## Download
