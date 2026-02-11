@@ -2,7 +2,7 @@
 title: RVC变声器
 date: 2024-02-09
 tags:
-draft: true
+draft: false
 description:
 ---
 ## Introduction
@@ -15,10 +15,10 @@ description:
 
 该工具是由**B站大佬花儿不哭**发起的开源项目，目前已有 **34K+ Star** 🌟
 
-![[image-22.webp|612x321]]
+![](</Attachments/image-22.webp>)
 
 
-![[RVC变声器-20260207182142-1.webp|596x299]]
+![](</Attachments/RVC变声器-20260207182142-1.webp>)
 
 
 ## Download&Install
@@ -32,7 +32,7 @@ description:
 >提前预留好空间，保持网络连通！
 >（我这里下载的是2.2.231006版本）
 
-![[image-23.webp|700x495]]
+![](</Attachments/image-23.webp>)
 
 ### 2.B站（推荐）
 
@@ -84,7 +84,7 @@ description:
 将下载的模型解压。例如这里我下载的是 kazuha-jp 100 epochs 48k v2.zip 
 将会得到两个核心文件：`.pth` 模型文件 和 `.index` 特征索引文件
 
-![[image-24.webp|700x130]]
+![](</Attachments/image-24.webp>)
 
 
 >[!note]
@@ -101,7 +101,7 @@ description:
 >
 >这时你可以试着将 `go-web.bat` 用记事本打开修改一下默认的 `7897` 端口！
 
-![[image-25.webp|700x319]]
+![](</Attachments/image-25.webp>)
 
 
 ## Demonstration
@@ -112,7 +112,7 @@ RVC有两个界面一个是“训练推理界面”，一个是“实时变声�
 
 好了，这里我就以这个“训练推理界面” 进行一个简单的演示（至于如何实时变声，我想感兴趣的小伙伴们会自行探索），来看看效果！
 
-![[image-21.webp|700x436]]
+![](</Attachments/image-21.webp>)
 
 
 | 特性    | RVC WebUI (浏览器界面) | 实时变声 GUI (图中界面)     |
@@ -126,14 +126,14 @@ RVC有两个界面一个是“训练推理界面”，一个是“实时变声�
 
 >小编这里随别选了一首**李荣浩**的 **《年少有为》** 作为素材 ☺️
 
-![[26.webp|629x421]]
+![](</Attachments/26.webp>)
 
 
 ### 2.素材处理
 
 >将歌曲下载好之后，需要进行“伴奏人声分离”。这里我们可以直接使用RVC自带的伴奏分离功能
 
-![[27.webp|700x353]]
+![](</Attachments/27.webp>)
 
 ### 3.下载Crayon Shin-chan声音模型
 

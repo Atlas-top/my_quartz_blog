@@ -160,7 +160,7 @@ draft: false
 
 ## 🖼️ 七、图片与附件
 
-`![[image.png]]`
+`![](</Attachments/image.png>)`
 
 `![说明文字](image.png)`
 

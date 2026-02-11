@@ -30,7 +30,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 
 
-![[image.webp|700x332]]
+![](</Attachments/image.webp>)
 
 ## 2. Prompthero
 
@@ -39,13 +39,13 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 >Midjourney, Stable Diffusion 和 DALL-E，这里能搜到所有平台的优质 Prompt。
 
 
-![[image-1.webp|700x303]]
+![](</Attachments/image-1.webp>)
 
 ## 3. AiShort
 
 网址： https://xn--o0uq09burn.com/
 
-![[image-2.webp|700x318]]
+![](</Attachments/image-2.webp>)
 
 
 ## 4. Awesome ChatGPT Prompts
@@ -56,7 +56,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 >
 >145k Star🌟
 
-![[image-3.webp|700x301]]
+![](</Attachments/image-3.webp>)
 
 ## 5. 提示词工程指南
 
@@ -64,7 +64,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 >学习提示词工程 OpenSource
 
-![[image-4.webp|700x299]]
+![](</Attachments/image-4.webp>)
 
 ## 6. 提示词优化器
 
@@ -74,10 +74,10 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 > 
 > 19.2K Star 🌟
 
-![[image-6.webp]]
+![](</Attachments/image-6.webp>)
 
 
-![[image-7.webp]]
+![](</Attachments/image-7.webp>)
 
 ## 7.snackprompt
 
@@ -85,7 +85,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 >Snack Prompt 是一个汇集了大量 AI 提示词（Prompt）的社区平台，致力于帮助用户发现、分享、评级和管理用于 ChatGPT 等大语言模型的高效提示词，以提升使用 AI 工具的效率。
 
-![[28.webp|700x319]]
+![](</Attachments/28.webp>)
 
 ## 8.flowgpt
 
@@ -97,7 +97,7 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 >这是一个**充满极客精神和公益心的 AI 绘画宝藏库**，是 Stable Diffusion 用户必收藏的“风格字典”
 
-![[29.webp|700x318]]
+![](</Attachments/29.webp>)
 
 ## 10.LearingPrompt
 
@@ -105,4 +105,4 @@ description: 搜集一些提示词网站、开源提示词仓库、各种Skills�
 
 >Jimmy‘s Blog
 
-![[30.webp|700x287]]
+![](</Attachments/30.webp>)

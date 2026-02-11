@@ -13,29 +13,29 @@ draft: false
 
 ### 1. 从官网下载后，按照提示安装。
 
-![[image-8.webp|620x515]]
+![](</Attachments/image-8.webp>)
 
 > 这一步建议都勾选
 
 ### 2. 安装设置
 
-![[image-9.webp|659x528]]
+![](</Attachments/image-9.webp>)
 
 >这一步建议选择 “Start fresh”，VScode重度用户除外
 
-![[image-10.webp|663x464]]
+![](</Attachments/image-10.webp>)
 
 > 这里选择推荐的“Review-driven development”
 > 并且右边的设置建议保持默认
 
 
-![[image-11.webp|667x346]]
+![](</Attachments/image-11.webp>)
 
 >如无特殊需求默认
 
 ### 3.登录账号（结束）
 
-![[image-12.webp|681x356]]
+![](</Attachments/image-12.webp>)
 
 ### 4. 汉化
 

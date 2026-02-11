@@ -24,7 +24,7 @@ description: What is ArcGIS Pro?
 
 
 
-![[ArcGIS Pro-20260205195752-1.webp|700x364]]
+![](</Attachments/ArcGIS Pro-20260205195752-1.webp>)
 
 
 ---
