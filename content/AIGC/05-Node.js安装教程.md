@@ -15,11 +15,11 @@ description: Node.js安装教程
 
 ### 默认Next
 
-![[content/Attachments/05-Node.js安装教程-20260205215221-1.webp|437x344]]
+![[05-Node.js安装教程-20260205215221-1.webp|437x344]]
 
 ### Tools for Native Modules不勾选
 
-![[content/Attachments/05-Node.js安装教程-20260205215532-1.webp|426x330]]
+![[05-Node.js安装教程-20260205215532-1.webp|426x330]]
 
 
 ### 等待安装
