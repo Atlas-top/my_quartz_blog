@@ -58,7 +58,7 @@ updated: 2026-02-05
 - **BKGD COLORS:** 修改背景颜色。
 - **Save Loop:** 点击后会生成并下载这一段循环动画。
 
-![](</Attachments/Attachments/image-16.webp>)
+![](</Attachments/image-16.webp>)
 
 
 ### 3.视角控制 (Camera Controls)
@@ -72,11 +72,11 @@ updated: 2026-02-05
 >- **CAMERA: Z-Rotation:** Z 轴旋转（让整个画面像方向盘一样**翻转**）。
 >- **Camera Zoom:** 相机缩放（拉近或拉远镜头，控制**景别大小**）。
 
-![](</Attachments/Attachments/image-17.webp>)
+![](</Attachments/image-17.webp>)
 
 ### 4. 动态生成模式
 
-![](</Attachments/Attachments/image-14.webp>)
+![](</Attachments/image-14.webp>)
 
 
 >STG 共有22种 **动态生成模式**，下面逐一解释：
@@ -121,7 +121,7 @@ updated: 2026-02-05
 11. **Newsprint (新闻纸):** 模拟旧报纸的印刷颗粒感。
 12. **Edge Case (边缘情况):** 通常是一些极端的、实验性的参数组合。
 
-![](</Attachments/Attachments/image-15.webp>)
+![](</Attachments/image-15.webp>)
 
 > Flag模式的预设效果区
 
