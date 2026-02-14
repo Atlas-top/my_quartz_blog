@@ -43,7 +43,8 @@ description:
 
 ## (2)当前ArcGIS版本
 
-![](</Attachments/image-18.webp>)
+<img src="Attachments/image-18.webp" width="300">
+
 # 3.ArcGIS产品结构图
 
 ![](</Attachments/image-19.webp>)
