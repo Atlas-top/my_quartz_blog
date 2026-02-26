@@ -1,3 +1,12 @@
+---
+title:
+date:
+tags:
+draft: true
+description:
+---
+
+
 <%*
 // 获取当前选中的文字
 let selection = tp.file.selection();
